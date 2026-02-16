@@ -1,0 +1,5 @@
+Not sure how to include a screenshot in a text file, but it looked really cool! There were two boxes, one with the files in the directory that I could type in to pick a specific file, and another box on the right that showed the context of the file.
+
+I used :PlugInstall to install plugins.
+
+fzf shows you your files in a very pretty way, allowing you to search for a file name in a directory and peek at the content of the file you are looking for.

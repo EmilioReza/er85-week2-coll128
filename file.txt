@@ -1,0 +1,3 @@
+this is a test file.
+
+I can navigate with the arrow keys.

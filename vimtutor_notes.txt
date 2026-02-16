@@ -1,0 +1,10 @@
+I completed lessons 1.1 to 1.5
+
+Things I found surprising:
+    Many basic Google Docs editing options were in vim (undo/redo, find/replace, cut/copy/paste, etc.)
+    When undo-ing, it tells you how long ago the change was, like a full revision history
+    Despite the focus of vim seeming to be to minimize the distance your fingers move (like putting the up/down/left/right all in the home row), the button for switching modes is far away (ESC).
+
+It took me a while to get familiar to use h/j/k/l to move the cursor around instead of arrow keys. I kept finding myself wanting to press a key in the bottom row to move down.    
+
+    

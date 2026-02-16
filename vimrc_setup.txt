@@ -1,0 +1,5 @@
+I added the settings from the included vimrc file, including syntax highlighting, displaying relative line numbers, and many others that I don't know the use of yet.
+
+I think the syntax highlighting would be very useful when coding.
+
+I added a line to increase the number of commmands remembered in history: set history=1000
