@@ -1,0 +1,9 @@
+1. Jump to the beginning of the file: gg
+2. Jump to the end of the file: G
+3. Find the word “vertical” (search forward): /vertical
+4. Jump to line 50: 50 G
+5. Delete the word under your cursor: dw
+6. Delete from cursor to end of line: d$
+7. Undo your last change: u
+8. Yank (copy) a line: dd
+9. Paste it below: p

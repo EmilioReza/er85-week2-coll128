@@ -1,0 +1,6 @@
+IN_PROGRESS: Fix the login bug
+IN_PROGRESS: Update documentation
+COMPLETED: Add tests
+DONE: Deploy to staging
+IN_PROGRESS: Review pull request
+

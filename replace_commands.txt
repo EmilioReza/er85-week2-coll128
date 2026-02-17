@@ -1,0 +1,8 @@
+vim replace_practice.txt
+Paste (Ctrl+v)
+gg
+:%s/TODO/IN_PROGRESS/g
+2j
+:s/DONE/COMPLETED
+:g/database/d
+:wq

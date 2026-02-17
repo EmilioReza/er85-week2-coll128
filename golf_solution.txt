@@ -1,0 +1,12 @@
+Keystrokes: Idef <Esc>A():<Enter><Tab>pass<Esc>
+Count: 17
+Explanation:
+I - Insert at beginning of line
+def  - Type "def "
+<Esc> - Return to normal mode
+A - Insert at end of line
+(): - Type "(): "
+<Enter> - Insert a new line while still in insert mode
+<Tab> - Insert a tab while still in insert mode
+pass - Type "pass"
+<Esc> - Return to normal mode
